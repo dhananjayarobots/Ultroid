@@ -9,8 +9,8 @@
         "python",
         "ultroid"
     ],
-    "repository": "https://github.com/TeamUltroid/Ultroid",
-    "website": "https://ultroid.tech",
+    "repository": "https://github.com/dhananjayarobots/Ultroid",
+    "website": "https//ultroid.tech",
     "success_url": "https://t.me/TheUltroid",
     "stack": "container",
     "env": {
